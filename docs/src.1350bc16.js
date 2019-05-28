@@ -49,4 +49,4 @@ var t,n="/Users/taylorgrowden/Projects/wasm-piano/node_modules/parcel-plugin-was
 },{"fs":"4CNN"}],0:[function(require,module,exports) {
 var b=require("21/1");b.register("wasm",require("fISM"));b.load([["wasm_musical_notes_bg.496bf6ef.wasm","bD14"]]).then(function(){require("zo2T");});
 },{}]},{},[0], null)
-//# sourceMappingURL=/src.1350bc16.js.map
+//# sourceMappingURL=src.1350bc16.js.map

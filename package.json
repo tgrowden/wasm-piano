@@ -38,7 +38,7 @@
     "clean": "rimraf .cache dist src/native/pkg src/native/target",
     "build": "parcel build ./src/index.html",
     "lint-file": "eslint --fix",
-    "build:gh-pages": "rimraf docs && parcel build ./src/index.html --out-dir docs"
+    "build:gh-pages": "rimraf docs && parcel build ./src/index.html --out-dir docs --public-url ./"
   },
   "lint-staged": {
     "*.{tsx,ts,jsx,js}": [
